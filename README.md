@@ -1,6 +1,7 @@
 # 🏥 Healthcare Analytics Dashboard — Power BI
 
 A comprehensive Power BI project analyzing hospital patient data across multiple healthcare KPIs, built with a focus on **domain understanding** rather than just tool usage.
+video_link[https://drive.google.com/file/d/1tAMgzb2DE1_m56I4zkpFXc3WWPuRNAGC/view?usp=drive_link]
 
 ---
 
@@ -83,14 +84,9 @@ healthcare-powerbi/
 └── README.md
 ```
 
----
 
-## 🚀 How to Run
 
-1. Clone or download this repository
-2. Open `Healthcare_Dashboard.pbix` in **Power BI Desktop**
-3. If needed, update the data source path under **Transform Data → Data Source Settings**
-4. Refresh the dataset
+
 
 ---
 
